@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @oitm
 - 💼 Senior Back End Engineer at Ant Group.
 - 👀 I’m interested in algorithm
-- 🌱 I’m currently learning goland|java
+- 🌱 I’m currently learning goland | java
 
 <!---
 songshuran/songshuran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
